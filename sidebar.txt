@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bjk:home|Door43 (bjk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bjk|d43-bjk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bjk/archive/master.zip|d43-bjk.zip]]
+
+**Recent Changes**
+{{changes>ns = bjk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bjk|Ethnologue data]]
+
